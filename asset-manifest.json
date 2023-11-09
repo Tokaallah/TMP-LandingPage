@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/TMP-LandingPage/static/css/main.27b0fbaf.css",
-    "main.js": "/TMP-LandingPage/static/js/main.82813043.js",
+    "main.js": "/TMP-LandingPage/static/js/main.0b7bcfdc.js",
     "static/media/TMP.png": "/TMP-LandingPage/static/media/TMP.36621baaf86aeb902e50.png",
     "static/media/calendar.png": "/TMP-LandingPage/static/media/calendar.34d18195b3408ca49ccc.png",
     "static/media/people.png": "/TMP-LandingPage/static/media/people.5cd2d6fbcd48bd63f106.png",
-    "static/media/logo.svg": "/TMP-LandingPage/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "static/media/logo.svg": "/TMP-LandingPage/static/media/logo.cd11734d4343bfb7070549f45cd16650.svg",
     "index.html": "/TMP-LandingPage/index.html",
     "main.27b0fbaf.css.map": "/TMP-LandingPage/static/css/main.27b0fbaf.css.map",
-    "main.82813043.js.map": "/TMP-LandingPage/static/js/main.82813043.js.map"
+    "main.0b7bcfdc.js.map": "/TMP-LandingPage/static/js/main.0b7bcfdc.js.map"
   },
   "entrypoints": [
     "static/css/main.27b0fbaf.css",
-    "static/js/main.82813043.js"
+    "static/js/main.0b7bcfdc.js"
   ]
 }
